@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/logo.png" alt="Logo LAB-ANTO — rose des vents et engrenage" width="130">
+<img src="logo.png" alt="Logo LAB-ANTO — rose des vents et engrenage" width="130">
 
 &nbsp;
 
