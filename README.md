@@ -59,7 +59,7 @@ Après **20 ans de métiers de terrain** — vigneron indépendant, maçon, cord
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-🌱 **En cours d'apprentissage** : Terraform, Kubernetes avancé — labs à venir sur ce profil !
+🌱 **En cours d'apprentissage** : Terraform, Kubernetes avancé, N8N — labs à venir !
 
 ## 🚀 Projets & labs
 
