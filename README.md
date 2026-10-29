@@ -63,15 +63,14 @@ Après **20 ans de métiers de terrain** — vigneron indépendant, maçon, cord
 
 ## 🚀 Projets & labs
 
-> Mes projets épinglés sont visibles juste en dessous de ce README. ⭐
 
 | Projet | Description |
 |---|---|
 | 🎬 [**bonjour-systeme**](https://github.com/Antonin05-M/bonjour-systeme) | Script PowerShell : brief système animé et coloré dans le terminal — capteurs, jauges, applications, santé machine |
-| 🐳 *Stacks Docker* | Environnements auto-hébergés et labos conteneurisés *(à venir)* |
-| 🏗️ *Labs Terraform* | Infrastructure as Code : réseau, VM, cloud *(à venir)* |
-| 🐍 *Applis Python* | Petits outils d'automatisation et d'admin sys/réseau *(à venir)* |
-| 🌐 *Projets admin sys & réseau* | Retours de missions et labos à découvrir sur [lab-anto.com](https://lab-anto.com) *(à venir)* |
+| 🐳 *Stacks Docker* | Environnements auto-hébergés et labos conteneurisés |
+| 🏗️ *Labs Terraform* | Infrastructure as Code : réseau, VM, cloud |
+| 🐍 *Applis Python* | Petits outils d'automatisation et d'admin sys/réseau |
+| 🌐 *Projets admin sys & réseau* | Retours de missions et labos à découvrir sur [lab-anto.com](https://lab-anto.com) |
 
 ## 🌱 En ce moment
 
