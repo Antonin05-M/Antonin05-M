@@ -7,7 +7,7 @@
 
 # Antonin Moisan
 
-### Ingénieur en Cybersécurité en alternance · Linux · Open Source · Souveraineté
+### Cybersécurité · Linux · Open Source · Souveraineté · Apprendre
 
 **« La ligne droite n'est pas toujours le chemin le plus court... ⛰️   
 Parcours non linéaire, détermination tenace : chaque virage est un chapitre, mais le cap est devant ! »** 🧭
