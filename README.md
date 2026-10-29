@@ -21,13 +21,13 @@ Parcours non linéaire, détermination tenace : chaque virage est un chapitre, m
 
 ---
 
-## 👋 Bonjour !
+## Bonjour !
 
 Ingénieur Expert en **Cybersécurité** en alternance à la **Fondation Edith Seltzer** (acteur médico-social des Hautes-Alpes), en préparation du **Master Expert en Cybersécurité** avec LiveCampus. L'année passée : administrateur système & réseau en entreprise MSP (Isiscom).
 
 Après **20 ans de métiers de terrain** — vigneron indépendant, maçon, cordiste, pisteur-secouriste en ski alpin — je me suis reconverti dans l'informatique. Ce parcours non linéaire est ma force : autonomie, sang-froid, sens du collectif et goût pour les réalisations abouties.
 
-## 🎯 Le cap
+## Le cap
 
 - 🐧 **Administration Linux** et architectures **open source**
 - 🔐 **Sécurisation des infrastructures** : pare-feu, VPN, SIEM, durcissement, supervision
@@ -35,7 +35,7 @@ Après **20 ans de métiers de terrain** — vigneron indépendant, maçon, cord
 - ⚙️ **Automatisation** : Bash, PowerShell, Python, conteneurs
 - 📚 **Partage de connaissances** : apprendre et aider à apprendre → [lab-anto.com](https://lab-anto.com)
 
-## 🧰 Boîte à outils
+## Boîte à outils
 
 **Systèmes & virtualisation**
 
@@ -61,7 +61,7 @@ Après **20 ans de métiers de terrain** — vigneron indépendant, maçon, cord
 
 🌱 **En cours d'apprentissage** : Terraform, Kubernetes avancé, N8N — labs à venir !
 
-## 🚀 Projets & labs
+## Projets & labs
 
 
 | Projet | Description |
@@ -72,20 +72,20 @@ Après **20 ans de métiers de terrain** — vigneron indépendant, maçon, cord
 | 🐍 *Applis Python* | Petits outils d'automatisation et d'admin sys/réseau |
 | 🌐 *Projets admin sys & réseau* | Retours de missions et labos à découvrir sur [lab-anto.com](https://lab-anto.com) |
 
-## 🌱 En ce moment
+## En ce moment
 
 - 🎓 Préparation du **Master Expert en Cybersécurité** (LiveCampus)
 - 🏅 Titre **Administrateur d'Infrastructures Sécurisées** (RNCP Niveau 6) — jury passé, en attente du verdict officiel !
 - 🏥 Construction de l'équipe Infrastructure à la Fondation Edith Seltzer
 - ✍️ Alimentation de [lab-anto.com](https://lab-anto.com) et de ce GitHub
 
-## 📫 Me retrouver
+## Me retrouver
 
 [![Site web](https://img.shields.io/badge/lab--anto.com-00BFFF?style=flat-square)](https://lab-anto.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonin-moisan-4774a9370)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moisanantonin@gmail.com)
 
-## 🏔️ Hors SI
+## Hors SI
 
 Président du club **Briançon Escalade**, ski alpin, cordisme. La montagne me nourrit autant que le terminal — même exigence, même verticalité.
 
